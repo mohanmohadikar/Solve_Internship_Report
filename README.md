@@ -1,5 +1,5 @@
 # Solve Internship Report
-## Mohan M MOhadikar | WFH | Android Developer 
+## Mohan M Mohadikar | Android Developer 
 ### Tenure: 26/04/2020 to 25/06/2020
 
 ### Download App
@@ -47,7 +47,7 @@ v2:
 - Enabled notification feature for feed posts in a classroom.
 - Enabled notification feature for feed comments.
 
-###Miscelleneuous earnig:
+### Miscellaneous learning:
 - Learned how to check api correctness with Postman.
 - Came to know about Vysor.
 
