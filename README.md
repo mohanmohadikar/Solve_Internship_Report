@@ -1,5 +1,5 @@
 # Solve Internship Report
-## Mohan M Mohadikar | Android Developer 
+## Mohan M Mohadikar | Software Developer(Frontend)
 ### Tenure: 26/04/2020 - 26/06/2020
 
 ### Download App
