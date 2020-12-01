@@ -1,6 +1,6 @@
 # Solve Internship Report
 ## Mohan M Mohadikar | Android Developer 
-### Tenure: 26/04/2020 - Present
+### Tenure: 26/04/2020 - 26/06/2020
 
 ### Download App
 
